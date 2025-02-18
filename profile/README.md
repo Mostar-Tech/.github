@@ -14,8 +14,9 @@
 We would be delighted to be part of your digital transformation journey. For more information or to discuss your projects, feel free to reach out. 🤝
 
 - Website: [www.mostar.tech](https://mostar.tech)
+           [www.mostaryazilim.com.tr](https://mostaryazilim.com.tr)
 - GitHub: [Mostar-Tech](https://github.com/Mostar-Tech)
 
 ---
 
-© 2024 Mostar | Developed with ❤️ and 🕰️ by <a href="https://akkaya.dev">akkayatr.</a>
+© 2025 Mostar | Developed with ❤️ and 🕰️ by <a href="https://akkaya.dev">akkayatr.</a>
